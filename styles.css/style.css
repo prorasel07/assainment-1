@@ -454,3 +454,7 @@ p {
   justify-content: center;
   justify-content: space-around;
 }
+
+footer{
+    margin-top: 100px;
+}
